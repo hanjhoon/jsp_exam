@@ -1,3 +1,1 @@
-# JSP 기초 문법만을 가지고 만드는 프로젝트입니다.
-## 작성일자: 2023-04-21
-## 작성자: bdwrtr
+# [통신](https://github.com/hanjhoon/jsp_exam/blob/main/jsp-first-project/crud.md)
